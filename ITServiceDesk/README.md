@@ -22,7 +22,7 @@
    1. Email一定要填华师的**m邮箱** ，即`202x380x0xx@m.scnu.edu.cn`
    2. 问题描述一定要**清晰**（建议可以附上问题截图）
    3. 请使用**英文**
-  ![Service](/img/05.jpg)
+![Service](/img/05.jpg)
 
 5. 提交表单**Submit**
 
