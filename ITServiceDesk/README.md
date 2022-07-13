@@ -1,5 +1,3 @@
-[TOC]
-
 # IT Service Desk 指引
 
 ## Issue指引
