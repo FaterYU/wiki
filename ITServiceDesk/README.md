@@ -28,4 +28,4 @@
 
 ## 关于
 
-本指引制于**2022-07-13**，内容仅供参考，请以实际情况为准
+本[指引](https://github.com/FaterYU/wiki/tree/main/ITServiceDesk)制于**2022-07-13**，内容仅供参考，请以实际情况为准
